@@ -1,0 +1,19 @@
+{
+  "name": "shareable-api",
+  "version": "1.0.0",
+  "description": "Share files securely with links that autoexpire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymathWhiz/shareable-api.git"
+  },
+  "author": "Miracle Anyanwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolymathWhiz/shareable-api/issues"
+  },
+  "homepage": "https://github.com/PolymathWhiz/shareable-api#readme"
+}
