@@ -6,7 +6,11 @@ const port = 3000;
 
 require("dotenv").config();
 
+<<<<<<< HEAD
 app.use(cors());
+=======
+app.use(cors())
+>>>>>>> e246b38
 
 app.use(
   express.urlencoded({
