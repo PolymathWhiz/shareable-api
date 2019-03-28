@@ -24,6 +24,5 @@ function connection() {
 const pool = connection();
 
 module.exports = {
-  connection: async () => pool.getConnection(),
   execute: (...params) => pool.execute(...params)
 };
